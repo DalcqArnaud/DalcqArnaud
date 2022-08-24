@@ -1,8 +1,11 @@
 ### Hi there 👋 I'm Arnaud!
 
-## About me
-Junior Web Developer and video games enjoyer.
-I'm currently learning React and OOP
+- 💻 Junior Web Developer currently following a training at Becode.
+- 💡 I'm interested in Javascript, I'm also a video games enjoyer and I like streaming on Twitch.
+- 🔍 I'm currently learning React and OOP.
+- 😄 Also know as "LaTempeteGrise" online.
+- 💬 You can contact me on [my Linkedin](https://www.linkedin.com/in/arnaud-dalcq/).
+
 
 <!--
 **DalcqArnaud/DalcqArnaud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
