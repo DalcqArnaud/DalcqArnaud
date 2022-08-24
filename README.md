@@ -1,7 +1,8 @@
 ### Hi there 👋 I'm Arnaud!
 
 ## About me
-test
+Junior Web Developer and video games enjoyer.
+I'm currently learning React and OOP
 
 <!--
 **DalcqArnaud/DalcqArnaud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
